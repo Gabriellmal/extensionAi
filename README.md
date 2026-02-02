@@ -1,7 +1,7 @@
 # extensionAi
 🏗️ VS Code Architect
 
-VS Code Architect is a powerful, AI-driven extension factory that allows you to build, compile, and install VS Code extensions just by describing them in plain English. Powered by Gemini 2.5 Flash, it handles the scaffolding, dependency management, and packaging automatically.
+VS Code Architect is a powerful, AI-driven extension factory that allows you to build, compile, and install VS Code extensions just by describing them in plain English. , it handles the scaffolding, dependency management, and packaging automatically.
 
 🚀 Features
 
