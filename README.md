@@ -83,4 +83,4 @@ Keep your API keys private and never share them in public repositories.
 
 Distributed under the MIT License. See LICENSE for more information.
 
-Built with ❤️ by the Architect Labs team.
+Built by Gabriel.
